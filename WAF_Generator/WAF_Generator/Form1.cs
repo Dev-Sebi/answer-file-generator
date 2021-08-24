@@ -15,8 +15,6 @@ using System.IO;
  * Made by Sebi
  * Last Update: 15.06.2021
  * Version: 1.0.0
- *  
- * Product made for StorTrec AG.
  * 
  * *********************************************/
 
